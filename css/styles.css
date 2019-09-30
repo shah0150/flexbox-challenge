@@ -17,20 +17,34 @@
   
   
   /* challenge 1 make all of the boxes line up beside eachother */
-  
+ .challenge1{
+   display: flex;
+ } 
   
   
   /* challenge 2 make all of the boxes line up beside eachother in the reverse direction */
-  
+  .challenge2{
+    display: flex;
+    flex-direction: row-reverse;
+  }
   
   
   /* challenge 3 make all of the boxes go in a column in the reverse direction*/
-  
+  .challenge3{
+    display: flex;
+    flex-direction: column-reverse;
+  }
   
   
   /* challenge 4 make all of the boxes go in a row with equal space around them*/
-  
+  .challenge4{
+    display: flex;
+    justify-content: space-around;
+  }
   
   
   /* challenge 5 make all of the boxes go in a row with equal space between them*/
-  
+  .challenge5{
+    display: flex;
+    justify-content: space-between;
+  }
