@@ -1,0 +1,36 @@
+.box{
+    width:100px;
+    height:100px;
+  }
+  .box1{
+    background-color:green;
+  }
+  .box2{
+    background-color:yellow;
+  }
+  .box3{
+    background-color:blue;
+  }
+  .box4 {
+    background-color:red;
+  }
+  
+  
+  /* challenge 1 make all of the boxes line up beside eachother */
+  
+  
+  
+  /* challenge 2 make all of the boxes line up beside eachother in the reverse direction */
+  
+  
+  
+  /* challenge 3 make all of the boxes go in a column in the reverse direction*/
+  
+  
+  
+  /* challenge 4 make all of the boxes go in a row with equal space around them*/
+  
+  
+  
+  /* challenge 5 make all of the boxes go in a row with equal space between them*/
+  
